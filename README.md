@@ -1,5 +1,5 @@
 # express-server
-My Express with nodeJS server
+Express with nodeJS server
 
 npm init
 
